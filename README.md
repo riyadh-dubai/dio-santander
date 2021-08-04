@@ -24,5 +24,6 @@ Nesse desafio, foi sugerido o desenvolvimento de uma calculadora IMC, a qual rec
 4. Obesidade Grau I, quando o resultado está entre 30,0 a 34,9 kg/m2
 5. Obesidade Severa Grau II, quando o resultado está entre 35,0 a 39,9 kg/m2
 6. Obesidade Mórbida Grau III, quando o resultado está acima de 40,0 kg/m2
+
 Nota: Ao pressionar o botão pela primeira vez, os campos peso e altura ficam ocultos e o texto do botão é alterado para "Novo cálculo". Se o usuário clicar nele novamente, os campos reaparecem e o texto do botão volta a ter o seu valor original ("Calcular").
 
